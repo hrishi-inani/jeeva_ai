@@ -9,7 +9,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/PranavNair01/Lohit_Kriti_Software_Dev_24
+  git clone https://github.com/hrishi-inani/jeeva_ai.git
 ```
 
 Go to the project directory

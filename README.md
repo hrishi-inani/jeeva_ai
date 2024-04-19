@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 ## Tech Stack
 
-- **Client:** React JS
-- **Server:** Node JS
+- **Frontend:** React JS
+- **Backend:** Node JS
 - **Database:** MongoDB
 
 # Run server locally
